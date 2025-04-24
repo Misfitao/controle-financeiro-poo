@@ -1,2 +1,12 @@
-# controle-financeiro-poo
-Projeto simples de controle financeiro pessoal feito com Python e Programação Orientada a Objetos. Inclui categorias, transações e cálculo de saldo total. projeto feito com base em uma aula sobre Programação Orientada a Objetos em Python.
+# Controle Financeiro em Python 🐍
+
+Projeto simples para praticar Programação Orientada a Objetos (POO) com Python.
+
+Permite cadastrar categorias e transações (entradas e saídas), e exibe o saldo final.
+
+---
+
+## Como funciona
+
+- Cadastro de categorias (ex: receitas, contas, lazer)
+- Cadastro de transações com descrição, valor e categoria
